@@ -1,2 +1,1 @@
-Це скрипт щоб запустити інстанс для 5 лабки
-aws ec2 run-instances --image-id ami-0fc5d935ebf8bc3bc --count 1 --instance-type t2.micro --key-name Notebook_key --security-group-ids sg-0f6387f1dbdb7335e --subnet-id subnet-0f609df69770778ee --user-data file://script_5.sh
+touch folder1/file to create file in folder1 ls [folder1 | folder2] - view content of folder
